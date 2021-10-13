@@ -87,3 +87,12 @@ id sem consectetuer libero luctus adipiscing.
 > Here's some example code:
 >
 >     return shell_exec("echo $input | $markdown_script");
+
+### Исходный код
+
+Блоки кода отбиваются 4 пробелами в начале каждой строки.
+
+Но в GitHub-Flavored Markdown (сокращенно GFM) есть более удобный способ: ставим по три апострофа (на букве Ё) до и после кода. Также можно указать язык исходного кода.
+
+    return shell_exec("echo $input | $markdown_script");
+
