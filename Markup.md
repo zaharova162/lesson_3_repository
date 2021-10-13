@@ -118,6 +118,11 @@ id sem consectetuer libero luctus adipiscing.
 [2]: http://example.com/some
 [id]: http://example.com/links (Optional Title Here)
 
+### Emphasis
+
+Выделять слова можно при помощи `*` и `_`. Одним символ для наклонного текста, два символа для жирного текста, три — для наклонного и жирного одновременно.
+
+Например, это _italic_ и это тоже *italic*. А вот так уже __strong__, и так тоже **strong**. А так ***жирный и наклонный*** одновременно.
 
 
 
